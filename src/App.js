@@ -27,7 +27,7 @@ function Board({ xIsNext, squares, onPlay }) {
   if (winner) {
     status = 'Vencedor: ' + winner;
   } else {
-    status = 'Next player: ' + (xIsNext ? 'X' : 'O');
+    status = 'Proximo jogador: ' + (xIsNext ? 'X' : 'O');
   }
 
   return (
