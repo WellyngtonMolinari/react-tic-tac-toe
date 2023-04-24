@@ -1,4 +1,4 @@
-Simple tic-tac-toe game made using only React framework
+Simple tic-tac-toe game, made following React official doccumentation. 
 
 Hosted on Github pages through VSCode terminal. Learn more at: https://create-react-app.dev/docs/deployment/#github-pages
 
